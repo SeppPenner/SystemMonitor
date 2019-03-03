@@ -1,7 +1,7 @@
 SystemMonitor
 ====================================
 
-SystemMonitor is a project to store metrics like CPU or network usage. The script was written and tested in Python 3.7.
+SystemMonitor is a project to store metrics like CPU or network usage from a system like the Raspberry Pi. The script was written and tested in Python 3.7.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/557yvbhg4q3bqxjm?svg=true)](https://ci.appveyor.com/project/SeppPenner/systemmonitor)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/SystemMonitor.svg)](https://github.com/SeppPenner/SystemMonitor/issues)

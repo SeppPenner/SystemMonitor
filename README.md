@@ -7,7 +7,7 @@ SystemMonitor is a project to store metrics like CPU or network usage from a sys
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/SystemMonitor.svg)](https://github.com/SeppPenner/SystemMonitor/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/SystemMonitor.svg)](https://github.com/SeppPenner/SystemMonitor/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/SystemMonitor.svg)](https://github.com/SeppPenner/SystemMonitor/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/SystemMonitor/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/SystemMonitor/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/SystemMonitor/badge.svg)](https://snyk.io/test/github/SeppPenner/SystemMonitor) 
 
 # Steps to use this project:

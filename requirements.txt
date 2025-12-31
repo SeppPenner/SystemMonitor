@@ -1,2 +1,2 @@
-multimethod==1.9.1
-pymysql==1.1.1
+multimethod==2.0.2
+pymysql==1.1.2
